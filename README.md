@@ -15,7 +15,8 @@ In addition to my coding skills,I enjoy working with others to bring ideas to li
 **Contact**
 Thank you for visiting my GitHub account. I hope you find my projects interesting and educational. If you have any questions or would like to collaborate on a project, please don't hesitate to reach out to me. You can find my contact information below:
 
--**Email**: hrudayranjan8@gmail.com
+- **Email**: hrudayranjan8@gmail.com
+-
 -**LinkedIn**: https://www.linkedin.com/in/hrudayranjan
 -**Twitter**: https://twitter.com/Er_hruday
 -**Codepen**: https://codepen.io/Erhruday/pens/loved
