@@ -6,7 +6,7 @@
 ↬ Strong background in back-end development using languages such as Node.js and Express JS
 ↬ Skilled in using databases such as MongoDB, MySQL
 ↬ Experienced in agile software development methodologies
-↬ Excellent problem-solving and communication skills
+↬ Excellent problem-solving and communication skills <br/>
 
 On this GitHub account, you will find a range of projects that showcase my abilities as a fullstack developer. From simple static websites to full-fledged web applications, I have experience building a variety of projects.
 
