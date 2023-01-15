@@ -18,5 +18,5 @@ Thank you for visiting my GitHub account. I hope you find my projects interestin
 - **Email**: hrudayranjan8@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/hrudayranjan
 - **Twitter**: https://twitter.com/Er_hruday
-- **Codepen**: https://codepen.io/Erhruday/pens/loved
-- **Website**: https://portfolio-hruday.vercel.app
+- **Codepen**: https://codepen.io/Erhruday/pens/showcase
+- **Website**: https://hruday-ranjan.vercel.app
