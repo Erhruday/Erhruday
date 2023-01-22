@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hruday, fullstack **developer** with experience in front-end and back-end web development.
+- 👋 Hi, I’m Hruday, **developer** with experience in front-end and back-end web development.
 
 **Skills**
 - ↬ Proficient in modern front-end technologies such as **HTML, CSS, and JavaScript**
