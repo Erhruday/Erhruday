@@ -12,8 +12,10 @@ On this GitHub account, you will find a range of projects that showcase my abili
 
 In addition to my coding skills,I enjoy working with others to bring ideas to life and am always open to learning new technologies and techniques.
 
-**Contact**
+
 Thank you for visiting my GitHub account. I hope you find my projects interesting and educational. If you have any questions or would like to collaborate on a project, please don't hesitate to reach out to me. You can find my contact information below:
+
+**Contact**
 
 - **Email**: hrudayranjan8@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/hrudayranjan
