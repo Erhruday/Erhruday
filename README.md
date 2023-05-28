@@ -1,24 +1,39 @@
-- 👋 Hi, I’m Hruday,a **developer** with experience in front-end and back-end web development.
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-**Skills**
-- ↬ Proficient in modern front-end technologies such as **HTML, CSS, and JavaScript**
-- ↬ Expertise in popular frameworks such as **React, Next JS & EXT JS**
-- ↬ Strong background in back-end development using languages such as **Node.js and Express JS**
-- ↬ Skilled in using databases such as **MongoDB, MySQL**
-- ↬ Experienced in agile software development methodologies
-- ↬ Excellent problem-solving and communication skills
-
-On this GitHub account, you will find a range of projects that showcase my abilities as a fullstack developer. From simple static websites to full-fledged web applications, I have experience building a variety of projects.
-
-In addition to my coding skills,I enjoy working with others to bring ideas to life and am always open to learning new technologies and techniques.
+<h1 align="center">Hi 👋, I'm Hruday</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+<img align="right" alt="developer" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
 
 
-Thank you for visiting my GitHub account. I hope you find my projects interesting and educational. If you have any questions or would like to collaborate on a project, please don't hesitate to reach out to me. You can find my contact information below:
 
-**Contact**
+- 🌱 I’m currently learning **Python**
 
-- **Email**: hrudayranjan8@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/hrudayranjan
-- **Twitter**: https://twitter.com/Er_hruday
-- **Codepen**: https://codepen.io/Erhruday/pens/showcase
-- **Website**: https://hruday-ranjan.vercel.app
+- 👨‍💻 All of my projects are available at [https://hruday-ranjan.vercel.app](https://hruday-ranjan.vercel.app)
+
+- 📝 I regularly write articles on [https://hruday-ranjan.vercel.app/blog](https://hruday-ranjan.vercel.app/blog)
+
+- 💬 Ask me about **react JS, Next JS**
+
+- 📫 How to reach me **hrudayranjan8@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/erhruday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erhruday" height="30" width="40" /></a>
+<a href="https://twitter.com/er_hruday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_hruday" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hrudayranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrudayranjan" height="30" width="40" /></a>
+<a href="https://instagram.com/h_r_u_d_a_y_.r_a_n_j_a_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_r_u_d_a_y_.r_a_n_j_a_n" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erhruday&show_icons=true&locale=en&layout=compact" alt="erhruday" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erhruday&show_icons=true&locale=en" alt="erhruday" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erhruday&" alt="erhruday" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erhruday&label=Profile%20views&color=0e75b6&style=flat" alt="erhruday" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erhruday" alt="erhruday" /></a> </p>
