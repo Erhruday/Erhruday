@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/erhruday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erhruday" height="30" width="40" /></a>
-<a href="https://twitter.com/er_hruday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_hruday" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hrudayranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrudayranjan" height="30" width="40" /></a>
-<a href="https://instagram.com/h_r_u_d_a_y_.r_a_n_j_a_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_r_u_d_a_y_.r_a_n_j_a_n" height="30" width="40" /></a>
+<a href="https://codepen.io/erhruday" target="blank"><img align="center" src="https://i.imgur.com/1B7XxOv.png" alt="erhruday" height="30" width="40" /></a>
+<a href="https://twitter.com/er_hruday" target="blank"><img align="center" src="https://i.imgur.com/HGPyf0Gb.jpg" alt="er_hruday" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hrudayranjan" target="blank"><img align="center" src="https://i.imgur.com/niuwa8T.png" alt="hrudayranjan" height="30" width="40" /></a>
+<a href="https://instagram.com/h_r_u_d_a_y_.r_a_n_j_a_n" target="blank"><img align="center" src="https://i.imgur.com/M6yBwxS.png" alt="h_r_u_d_a_y_.r_a_n_j_a_n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
